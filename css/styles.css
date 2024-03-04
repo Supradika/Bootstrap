@@ -1,0 +1,133 @@
+#title{
+  background-color: #B5C0D0;
+}
+#features{
+  padding: 14% 15%;
+  text-align: center;
+  z-index: 1;
+  font-size: 1.5em;
+
+
+}
+#testimonials{
+  background-color:#C08261;
+  text-align: center;
+  padding:3% 15%;
+  color: #ffff;
+  font-family:   "Roboto", sans-serif;
+
+
+}
+
+#pricing{
+  text-align: center;
+  padding:75px;
+  margin: 50px;
+
+  background-color:#AC7D88;
+
+
+}
+.card{
+  padding: 2%;
+  font-family: "Roboto", sans-serif;
+}
+
+#cta {
+  text-align: center;
+  background-color: #E2BFB3;
+}
+
+#footer{
+  text-align: center;
+  background-color: #E2BFB3;
+
+}
+h2{
+  font-size: 2.5rem;
+}
+.title-img , .testimonial-image{
+  width: 50%;
+    border-radius: 100%;
+    margin-right: 100px;
+    margin: 5%;
+}
+#press{
+    background-color:#C08261;
+    text-align: center;
+    padding-bottom: 5%;
+
+}
+
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 20px;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-family: cursive;
+  color: #9A3B3B;
+}
+.ttt{
+  font-size: 1.5em;
+}
+h1{
+font-family: "Jacquarda Bastarda 9", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #B67352;
+  font-size: 3rem;
+  text-align: center;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+body{
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.navbar-brand {
+  font-size: 3em;
+  font-style: italic;
+  font-weight: bold;
+}
+.nav-link{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 2rem;
+}
+.button{
+  padding: 2% 2% 2% 0%;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+.title-image{
+  width: 70%;
+  transform: rotate(30deg);
+  z-index: -1;
+  position: absolute;
+}
+.icon{
+  color: red;
+}
+.icon{
+  text-align: center;
+  color: #9B4444;
+  font-size: 1.5rem;
+
+}
+.icon:hover{
+  color:#A3C9AA;
+}
+#pricingdemo{
+  text-align: center;
+}
